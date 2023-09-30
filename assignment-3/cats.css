@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    font-size: 1em;
+    font-family: sans-serif;
+    letter-spacing: 0em;
+    color: black;
+    background-color: burlywood;
+    margin: 0px;
+}
+
+header {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    height: 50px;
+    border-radius: 0px;
+    background-color: beige;
+    padding: 20px 20px
+}
+
+img {  
+max-width: 35%;  
+height: auto; 
+border: 10px solid beige;
+} 
+
+a {
+    background-color: saddlebrown;
+    color: white;
+    padding: 1px 1px;
+    
+}
+
+h2 {
+    color: saddlebrown;
+    text-align: center;
+}
+
+.navigation li {
+    display: inline-block;
+    margin: 0px 5px;
+    text-transform: capitalize;
+    text-decoration: none;
+    text-align: center;
+    
+}
